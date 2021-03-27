@@ -11,7 +11,7 @@
 
 # Netflix for OS.js
 
-This is the Example Package for OS.js.
+Netflix (un)official application for OS.js
 
 
 
