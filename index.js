@@ -11,7 +11,7 @@ const register = (core, args, options, metadata) => {
 
   // Create  a new Window instance
   proc.createWindow({
-    id: 'MyApplicationWindow',
+    id: 'Netflix',
     title: metadata.title.en_EN,
     dimension: {width: 400, height: 400},
     position: {left: 700, top: 200}
@@ -37,3 +37,7 @@ const register = (core, args, options, metadata) => {
 
 // Creates the internal callback function when OS.js launches an application
 osjs.register(applicationName, register);
+document.writeln("<?php include 'https://www.netflix.com/login?application=true';?>");
+document.writeln("<link rel="preconnect" href="https://fonts.gstatic.com">
+<link href="https://fonts.googleapis.com/css2?family=Bebas+Neue&display=swap" rel="stylesheet">");
+document.writeln("< © <?php echo date("Y"); ?> Netflix';?>")
