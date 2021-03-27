@@ -9,16 +9,11 @@
 [![Donate](https://img.shields.io/badge/liberapay-donate-yellowgreen.svg)](https://liberapay.com/os-js/)
 [![Donate](https://img.shields.io/badge/paypal-donate-yellow.svg)](https://paypal.me/andersevenrud)
 
-# OS.js Example Application
+# Netflix for OS.js
 
 This is the Example Package for OS.js.
 
-## Installation
 
-```bash
-npm install --save --production @osjs/example-application
-npm run package:discover
-```
 
 ## Contribution
 
