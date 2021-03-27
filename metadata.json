@@ -1,13 +1,13 @@
 {
-  "type": "entertainment",
+  "type": "application",
   "name": "Netflix",
-  "category": entertainment,
+  "category": "entertainment",
   "server": "server.js",
   "title": {
-    "en_EN": "My Application"
+    "en_EN": "Netflix"
   },
   "description": {
-    "en_EN": "My Application"
+    "en_EN": "Netflix Application for OS-JS"
   },
   "files": [
     "main.js",
