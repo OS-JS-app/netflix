@@ -1,7 +1,7 @@
 {
-  "type": "application",
-  "name": "MyApplication",
-  "category": null,
+  "type": "entertainment",
+  "name": "Netflix",
+  "category": entertainment,
   "server": "server.js",
   "title": {
     "en_EN": "My Application"
