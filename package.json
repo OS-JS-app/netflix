@@ -1,7 +1,7 @@
 {
-  "name": "@osjs/example-application",
-  "version": "1.1.15",
-  "description": "OS.js Example Application",
+  "name": "@os-js-app/netflix",
+  "version": "1.0",
+  "description": "OS.js Netflix App,
   "scripts": {
     "test": "npm run eslint && npm run stylelint",
     "eslint": "eslint *.js",
@@ -12,7 +12,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/os-js/osjs-example-application.git"
+    "url": "git+https://github.com/OS-JS-app/netflix.git"
   },
   "keywords": [
     "osjs"
@@ -29,9 +29,9 @@
   "author": "Anders Evenrud <andersevenrud@gmail.com>",
   "license": "BSD-2-Clause",
   "bugs": {
-    "url": "https://github.com/os-js/osjs-example-application/issues"
+    "url": "https://github.com/OS-JS-app/netflix/issues"
   },
-  "homepage": "https://github.com/os-js/osjs-example-application#readme",
+  "homepage": "https://github.com/OS-JS-app/netflix#readme",
   "osjs": {
     "type": "package"
   },
